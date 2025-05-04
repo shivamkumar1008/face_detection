@@ -1,0 +1,5 @@
+streamlit
+tensorflow
+tensorflow-hub
+opencv-python
+numpy
